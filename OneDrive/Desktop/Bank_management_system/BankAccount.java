@@ -1,7 +1,7 @@
 package Bank_management_system;
 
 public class BankAccount {
-    private int id;
+     int id;
     private String name;
     private String contact;
     private String address;
